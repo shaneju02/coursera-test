@@ -1,2 +1,2 @@
-# coursera-test
-Coursera Test repository
+# Hello Kitty
+Hello Kitty, Hello World
